@@ -1,7 +1,5 @@
 ### Hi there, I'm Syed Ali Akbar 👋
 
-<img src="https://komarev.com/ghpvc/?username=akbarabidi1-aa&color=brightgreen" alt="Profile Views" />
-
 I am a **Full-Stack Developer & AI Engineer** based in Karachi, Pakistan. Currently, I'm pursuing my final year in Computer Science at SZABIST and working remotely with Propele (Canada). I am passionate about building scalable web applications, computer vision solutions, and agentic AI workflows.
 
 ---
